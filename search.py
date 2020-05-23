@@ -55,11 +55,13 @@ sorted_words = sorted(tagged_words, key=len, reverse=True)
 
 sorted_words_tagged = {word: tagged_words[word] for word in sorted_words}
 
-print('Longest "mackerels":')
+print('Longest "mackerels:\n":')
 s = pd.Series(sorted_words_tagged)
 print(s.head(30))
 
-print('States with the most "mackerels:')
+print('\n')
+
+print('States with the most "mackerels:\n')
 
 s = pd.Series(sorted_words_tagged)
 

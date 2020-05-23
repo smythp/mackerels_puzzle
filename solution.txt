@@ -1,0 +1,90 @@
+Longest "mackerels:
+":
+counterproductivenesses        Alabama
+hydrochlorofluorocarbon    Mississippi
+counterproductiveness          Alabama
+unconscientiousnesses          Alabama
+counterconditionings           Alabama
+deoxycorticosterones           Alabama
+hyperconsciousnesses           Alabama
+hypersensitivenesses           Alabama
+interconnectednesses           Alabama
+nondestructivenesses           Alabama
+overprotectivenesses           Alabama
+supposititiousnesses           Alabama
+underconsciousnesses           Alabama
+overscrupulousnesses            Hawaii
+microelectrophoretic            Kansas
+transcendentalnesses              Ohio
+untranslatablenesses              Ohio
+expressionlessnesses              Utah
+incompressiblenesses              Utah
+conscientiousnesses            Alabama
+counterinstitutions            Alabama
+counterinsurgencies            Alabama
+deoxycorticosterone            Alabama
+discontinuousnesses            Alabama
+heterogeneousnesses            Alabama
+inconsecutivenesses            Alabama
+inconspicuousnesses            Alabama
+introspectivenesses            Alabama
+noninterventionists            Alabama
+nonproductivenesses            Alabama
+dtype: object
+
+
+States with the most "mackerels:
+
+Ohio           11342
+Alabama         8274
+Utah            6619
+Mississippi     4863
+Hawaii          1763
+dtype: int64
+
+
+Additional fish mackerels:
+
+porcupinefish (Alabama)
+scorpionfish (Alabama)
+squirrelfish (Montana)
+surgeonfish (Alabama)
+triggerfish (Alabama)
+sharksucker (Wyoming)
+lizardfish (Kentucky)
+coelacanth (Mississippi)
+demoiselle (Utah)
+sheepshead (Wyoming)
+stonefish (Alabama)
+trunkfish (Alabama)
+topminnow (Alaska)
+jewelfish (Montana)
+stargazer (Ohio)
+platyfish (Oregon)
+steelhead (Wyoming)
+monkfish (Delaware)
+moonfish (Delaware)
+boarfish (Kentucky)
+goldfish (Kentucky)
+albacore (Mississippi)
+dragonet (Mississippi)
+eulachon (Mississippi)
+bluefish (Montana)
+filefish (Montana)
+mackerel (Ohio)
+pilchard (Tennessee)
+pirarucu (Tennessee)
+oarfish (Kentucky)
+ragfish (Kentucky)
+rasbora (Kentucky)
+anchovy (Mississippi)
+croaker (Mississippi)
+kokanee (Mississippi)
+snapper (Ohio)
+gourami (Tennessee)
+shiner (Alabama)
+madtom (New Jersey)
+sauger (Ohio)
+wrasse (Ohio)
+hamlet (Wisconsin)
+banjo (Mississippi)
