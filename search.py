@@ -64,3 +64,15 @@ print('States with the most "mackerels:')
 s = pd.Series(sorted_words_tagged)
 
 print(s.value_counts().head())
+
+with open('fish.txt', 'r') as fish_file:
+    fish_imported = fish_file.readlines()
+    fishes = [fish.strip().lower() for fish in fish_imported]
+
+print('\n')
+print('Additional fish mackerels:\n')
+
+
+for word in sorted_words_tagged:
+    if word in fishes:
+        print(word + ' (' + sorted_words_tagged[word] + ')')
