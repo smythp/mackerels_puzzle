@@ -1,4 +1,3 @@
-import operator
 import requests
 import pandas as pd
 
@@ -24,15 +23,11 @@ for state in imported_states:
     state_lower = state_no_whitespace.lower()
     state_set = set(state_lower)
     states[state] = state_set
-    
 
-# # Make state strings into sets of letters
-# states = {state: set(list(state)) for state in states}
 
 mackerels = {state: [] for state in states}
 
 
-word_counter = 0
 
 for word in words:
 
@@ -47,10 +42,6 @@ for word in words:
 
     if len(mackerel_states ) == 1:
         mackerels[mackerel_states[0]].append(word)
-
-    # progress_float = word_counter / len(words)
-    # progress_percent = "{:.0%}".format(progress_float)
-    # print([m for m in mackerels if mackerels[m]])
 
 
 tagged_words = {}
